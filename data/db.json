@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new Home page banner 1",
+      "details": "lorem ipsum dolor sit amet, consectetur adipis",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Make marketing emails 1",
+      "details": "lorem ipsum dolor sit amet, consectetur adipis",
+      "complete": true
+    },
+    {
+      "title": "read manga 123",
+      "details": "Karl Kenenth ALibuas",
+      "complete": true,
+      "id": "5vlqmHr"
+    }
+  ]
+}
